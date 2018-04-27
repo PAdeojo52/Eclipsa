@@ -1,0 +1,8 @@
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\Eclipsa.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\Eclipsa.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb

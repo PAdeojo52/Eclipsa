@@ -1,0 +1,54 @@
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\csc.exe
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\vbc.exe
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.dll.config
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.pdb
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.BLL.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.DAL.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.Models.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.BLL.pdb
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.DAL.pdb
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.Models.pdb
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\obj\Debug\MySwoleMate.csprojResolveAssemblyReference.cache
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\obj\Debug\MySwoleMate.csproj.CoreCompileInputs.cache
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\obj\Debug\MySwoleMate.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate\obj\Debug\MySwoleMate.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\obj\Debug\MySwoleMate.csprojResolveAssemblyReference.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\obj\Debug\MySwoleMate.csproj.CoreCompileInputs.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\obj\Debug\MySwoleMate.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\obj\Debug\MySwoleMate.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\csc.exe
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\vbc.exe
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.dll.config
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.BLL.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.DAL.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.Models.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.BLL.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.DAL.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\MySwoleMate.Models.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

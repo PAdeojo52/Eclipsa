@@ -1,0 +1,18 @@
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.csprojResolveAssemblyReference.cache
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.csproj.CoreCompileInputs.cache
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.csprojResolveAssemblyReference.cache
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.csproj.CoreCompileInputs.cache
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.csprojResolveAssemblyReference.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.csproj.CoreCompileInputs.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb

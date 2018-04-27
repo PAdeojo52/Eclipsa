@@ -1,0 +1,24 @@
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+C:\Users\Temi\Documents\Visual Studio 2017\Projects\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csprojResolveAssemblyReference.cache
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+C:\Users\PAdeojo\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.DAL.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.DAL\obj\Debug\MySwoleMate.DAL.pdb

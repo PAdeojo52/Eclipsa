@@ -1,0 +1,5 @@
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\Eclipsa.Models.csproj.CoreCompileInputs.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb

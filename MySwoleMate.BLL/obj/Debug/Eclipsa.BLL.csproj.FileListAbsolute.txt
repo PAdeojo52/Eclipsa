@@ -1,0 +1,10 @@
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\bin\Debug\MySwoleMate.BLL.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\bin\Debug\MySwoleMate.DAL.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\bin\Debug\MySwoleMate.Models.pdb
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\obj\Debug\Eclipsa.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\obj\Debug\Eclipsa.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.dll
+C:\Users\Temi\Desktop\MySwoleMate_StarterKit\MySwoleMate.BLL\obj\Debug\MySwoleMate.BLL.pdb
